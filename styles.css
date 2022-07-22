@@ -1,0 +1,127 @@
+body {
+  text-align: center;
+  background-color: #87CEFA;
+}
+
+h1 {
+  font-size: 6rem;
+  color: #DBEDF3;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+h2 {
+
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+hr{
+  border: 1px solid #440055;
+}
+
+.a {
+  background-image: url(images/bg1.png);
+  background-size: cover;
+}
+
+.s {
+    background-image: url(images/bg1.png);
+      background-size: cover;
+}
+
+.d {
+  background-image: url(images/bg1.png);
+    background-size: cover;
+}
+
+.q {
+  background-image: url(images/bg1.png);
+    background-size: cover;
+}
+
+.w {
+  background-image: url(images/bg1.png);
+    background-size: cover;
+}
+
+.e {
+  background-image: url(images/bg1.png);
+  background-size: cover;
+}
+
+.r {
+  background-image: url(images/bg1.png);
+  background-size: cover;
+}
+
+/* --------------- right hand -------------------*/
+
+.j {
+  background-image: url(images/bg1.png);
+  background-size: cover;
+}
+
+.k {
+    background-image: url(images/bg1.png);
+      background-size: cover;
+}
+
+.l {
+  background-image: url(images/bg1.png);
+    background-size: cover;
+}
+
+.u {
+  background-image: url(images/bg1.png);
+    background-size: cover;
+}
+
+.i {
+  background-image: url(images/bg1.png);
+    background-size: cover;
+}
+
+.o {
+  background-image: url(images/bg1.png);
+  background-size: cover;
+}
+
+.p {
+  background-image: url(images/bg1.png);
+  background-size: cover;
+}
+
+.set1 {
+  margin: 0 8%;
+  float: left;
+}
+.set {
+  margin: 0 100px;
+  float: right;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #440055;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+
+.sound {
+  outline: none;
+  border: 5px solid black;
+  font-size: 3rem;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #440055;
+  border-radius: 15px;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
